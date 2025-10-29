@@ -1,0 +1,31 @@
+.title {
+  font-size: 3rem;          
+  color: #007bff;           
+  font-weight: 700;          
+  text-align: center;        
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.quote-container {
+  background: transparent;
+  padding: 5px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
+  margin: 100px auto;
+  text-align: center;
+  box-shadow: none;  
+}
+
+
+#quote {
+  font-style: italic;
+  color: #333;
+}
+
+#newQuote {
+  font-weight: bold;
+  padding: 10px 20px;
+  cursor: pointer;
+}
